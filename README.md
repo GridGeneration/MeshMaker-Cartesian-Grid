@@ -6,6 +6,8 @@ The effect is as follows：
 
 ![image](https://github.com/GridGeneration/AutoMeshGeneration/blob/main/data/triangle_mesh.png)
 ![image](https://github.com/GridGeneration/AutoMeshGeneration/blob/main/data/tri-quad_mesh.png)
+![image](https://github.com/GridGeneration/AutoMeshGeneration/blob/main/data/Basic Version Algorithm.png)
+![image](https://github.com/GridGeneration/AutoMeshGeneration/blob/main/data/cartesian.png)
 
 How to use:
 
